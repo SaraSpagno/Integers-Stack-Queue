@@ -1,3 +1,3 @@
 # Ints-Stack-Queue
 
-Hello! Here is my implementatio of a stacks and queue of Integers in C :) 
+Hello! This is my first implementatio of a stacks and a queue of Integers in C!
